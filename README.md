@@ -24,3 +24,7 @@ go run .
 ```
 
 And do operation with the supported handlers. See `main.go` and `handler.go` file.
+
+Feel free to explore.
+
+[MIT License](./LICENSE)
